@@ -8,6 +8,7 @@
 <div align="center">
 
 <!-- HERO ASSET: assets/hero-30-hours.gif (1600x500) -->
+
 <img src="https://github.com/user-attachments/assets/b1ef8c09-94d1-4fb5-aada-6a1a53a2dadb" alt="Arun Kumar Yadav — 30 Hours GitHub Profile Hero: a digital clock moving from 24:00 toward 30:00" width="100%">
 
 <h1>I WANT 30 HOURS</h1>
@@ -19,11 +20,9 @@
 
 <br>
 
----
-
 <div align="center">
 
-### I don't actually need 30 hours.
+I don't actually need 30 hours.
 
 I just have too many things I want to<br>
 learn, build, create and improve.
@@ -44,30 +43,26 @@ learn, build, create and improve.
 
 </div>
 
----
-
-## 👋 WHO I AM
+👋 WHO I AM
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-**Arun Kumar Yadav**
+Arun Kumar Yadav
 
 B.Tech Computer Science student focused on Android development and building practical applications.
 
-I work with **Kotlin** and **Jetpack Compose**, and I care about clean architecture, maintainable code and apps that solve real problems. Outside of code, I create content, edit videos and train.
+I work with Kotlin and Jetpack Compose, and I care about clean architecture, maintainable code and apps that solve real problems. Outside of code, I create content, edit videos and train.
 
 </td>
 <td width="40%" valign="top">
 
-```text
 name      : Arun Kumar Yadav
 studying  : B.Tech Computer Science
 focus     : Android Development
 stack     : Kotlin · Compose · MVVM
 also      : Content · Editing · Fitness
-```
 
 </td>
 </tr>
@@ -83,36 +78,41 @@ also      : Content · Editing · Fitness
 <img src="https://img.shields.io/badge/Hilt-05070D?style=flat-square&logo=android&logoColor=3DDC84" alt="Hilt">
 </div>
 
----
-
 <div align="center">
 <!-- BANNER ASSET: assets/learning-banner.gif (1200x300) -->
 <img src="https://github.com/user-attachments/assets/29a7661f-3406-4339-bd4c-ae8aea1ae05c" alt="Learning banner — code lines and a rising progress bar in blue and purple" width="100%">
 </div>
 
-## 🎓 WHAT I'VE LEARNED
+🎓 WHAT I'VE LEARNED
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Programming Languages**
+Programming Languages
 
-- Kotlin
-- Java
-- Java
-- Java
+Kotlin
+
+Java
+
+Java
+
+Java
 
 </td>
 <td width="50%" valign="top">
 
-**Android Development**
+Android Development
 
-- Android SDK · Jetpack Compose · Material 3
-- MVVM · Clean Architecture
-- Room · Firebase
-- Hilt · Coroutines · Flow
-- Navigation · WorkManager · Notifications
+Android SDK · Jetpack Compose · Material 3
+
+MVVM · Clean Architecture
+
+Room · Firebase
+
+Hilt · Coroutines · Flow
+
+Navigation · WorkManager · Notifications
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ also      : Content · Editing · Fitness
 
 <div align="center">
 
-**Learning timeline**
+Learning timeline
 
 <table>
 <tr align="center">
@@ -135,14 +135,12 @@ also      : Content · Editing · Fitness
 
 </div>
 
----
-
 <div align="center">
 <!-- BANNER ASSET: assets/projects-banner.gif (1200x300) -->
 <img src="https://github.com/user-attachments/assets/1e256499-7fb3-41ad-9ed9-51360c5e518c" alt="Projects banner — app screens floating over a dark grid with blue and purple glow" width="100%">
 </div>
 
-## 🚀 WHAT I'VE BUILT
+🚀 WHAT I'VE BUILT
 
 <div align="center"><b><i>I don't just learn. I build.</i></b></div>
 
@@ -206,14 +204,12 @@ also      : Content · Editing · Fitness
 </tr>
 </table>
 
----
-
 <div align="center">
 <!-- BANNER ASSET: assets/tech-banner.gif (1200x300) -->
 <img src="https://github.com/user-attachments/assets/c149a908-443c-4a4f-9408-2e83fa61cbf5" alt="Toolbox banner — a circuit-style grid of glowing nodes in blue and cyan" width="100%">
 </div>
 
-## 🧰 MY TOOLBOX
+🧰 MY TOOLBOX
 
 <table>
 <tr><td width="22%"><b>Languages</b></td><td>
@@ -264,9 +260,7 @@ also      : Content · Editing · Fitness
 </td></tr>
 </table>
 
----
-
-## 🧠 HOW I WORK
+🧠 HOW I WORK
 
 <div align="center">
 
@@ -286,9 +280,7 @@ also      : Content · Editing · Fitness
 
 </div>
 
----
-
-## 🎬 BEYOND CODE
+🎬 BEYOND CODE
 
 <div align="center"><b><i>There's more to me than code.</i></b></div>
 
@@ -298,37 +290,40 @@ Alongside software development, I create content and work on personal projects o
 
 <div align="center">
 
-| Platform | Audience |
-|:--:|:--:|
-| YouTube | 8,255 subscribers |
-| Instagram | 11.5K followers |
+Platform
+
+Audience
+
+YouTube
+
+8,255 subscribers
+
+Instagram
+
+11.5K followers
 
 </div>
-
----
 
 <div align="center">
 <!-- BANNER ASSET: assets/creator-banner.gif (1200x300) -->
 <img src="https://github.com/user-attachments/assets/7a78d718-c40c-43e3-89ac-dae7d70a962e" alt="Content creation banner — CREATE, EDIT, PUBLISH timeline on a dark grid" width="100%">
 </div>
 
-## 🎥 CONTENT CREATION
+🎥 CONTENT CREATION
 
 I create content around:
 
-`Daily vlogging` · `Fitness` · `Productivity` · `Discipline` · `Personal growth` · `Technology / development`
+Daily vlogging · Fitness · Productivity · Discipline · Personal growth · Technology / development
 
 <div align="center">
 
-**CREATE → EDIT → PUBLISH**
+CREATE → EDIT → PUBLISH
 
 <img src="https://img.shields.io/badge/100_DAYS_VLOGGING_CHALLENGE-Day_39_/_100-05070D?style=for-the-badge&labelColor=7B3FE4&color=05070D" alt="100 Days Vlogging Challenge progress">
 
 </div>
 
----
-
-## ✂️ I EDIT TOO
+✂️ I EDIT TOO
 
 <div align="center"><b><i>Developer by logic. Creator by choice.</i></b></div>
 
@@ -348,13 +343,12 @@ I also work on video editing, thumbnails and visual content for my own projects 
 <br><br>
 
 <!-- BANNER ASSET: assets/editing-banner.gif (1200x300) -->
+
 <img src="https://github.com/user-attachments/assets/040f02a6-672a-48ba-94a9-1a3becc6678c" alt="Video editing banner — a timeline with clips, playhead and waveform in blue and purple" width="100%">
 
 </div>
 
----
-
-## 💪 DISCIPLINE
+💪 DISCIPLINE
 
 <table>
 <tr>
@@ -362,7 +356,7 @@ I also work on video editing, thumbnails and visual content for my own projects 
 </td>
 <td width="65%" valign="middle">
 
-**Code needs discipline.<br>So does life.**
+Code needs discipline.<br>So does life.
 
 Workout · Consistency · Daily routine · Fitness
 
@@ -372,73 +366,171 @@ Training keeps my routine honest, and that routine carries straight back into ho
 </tr>
 </table>
 
----
-
-## 📊 MY PROGRESS
+📊 MY PROGRESS
 
 <div align="center">
 
-| 4 | Android-focused | 9.0 | 8,255 | 11.5K |
-|:--:|:--:|:--:|:--:|:--:|
-| Featured projects | Main focus | CGPA | YouTube subscribers | Instagram followers |
+4
+
+Android-focused
+
+9.0
+
+8,255
+
+11.5K
+
+Featured projects
+
+Main focus
+
+CGPA
+
+YouTube subscribers
+
+Instagram followers
 
 <sub>Vlogging challenge: Day 39 / 100</sub>
 
 </div>
 
----
+💻 BUILDING IN PUBLIC
 
-## 💻 BUILDING IN PUBLIC
-
-<!-- EXTERNAL DYNAMIC WIDGETS (third-party services; may load slowly or rate-limit) -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arun6206&show_icons=true&hide_border=true&bg_color=05070D&title_color=2F6BFF&icon_color=22D3EE&text_color=E6EDF3" alt="Arun6206 GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun6206&layout=compact&hide_border=true&bg_color=05070D&title_color=2F6BFF&text_color=E6EDF3" alt="Arun6206 top programming languages" height="165">
+CODE. COMMIT. LEARN. REPEAT.
+
+<sub>
+I build in public, keep shipping small improvements, and use every project as a way to learn something new.
+</sub>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<b>ANDROID</b><br>
+<sub>Kotlin · Compose</sub>
+
+</td>
+<td align="center" width="25%">
+
+<b>PROJECTS</b><br>
+<sub>Build · Test · Improve</sub>
+
+</td>
+<td align="center" width="25%">
+
+<b>GITHUB</b><br>
+<sub>Code · Commits · Progress</sub>
+
+</td>
+<td align="center" width="25%">
+
+<b>LEARNING</b><br>
+<sub>Every project teaches</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Arun6206&hide_border=true&background=05070D&ring=7B3FE4&fire=22D3EE&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Arun6206 GitHub contribution streak">
+<img src="https://img.shields.io/badge/KOTLIN-2F6BFF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/JETPACK_COMPOSE-22D3EE?style=for-the-badge&logo=jetpackcompose&logoColor=05070D" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/FIREBASE-7B3FE4?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun6206&bg_color=05070D&color=2F6BFF&line=7B3FE4&point=22D3EE&area=true&hide_border=true" alt="Arun6206 GitHub contribution activity graph" width="100%">
+<a href="https://github.com/Arun6206?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-2F6BFF?style=for-the-badge&labelColor=05070D" alt="Explore Arun6206 repositories">
+</a>
+
+<a href="https://github.com/Arun6206?tab=activity">
+  <img src="https://img.shields.io/badge/VIEW_ACTIVITY-7B3FE4?style=for-the-badge&labelColor=05070D" alt="View GitHub activity">
+</a>
+
+<br><br>
+
+<!-- Optional dynamic card: kept as a single visual anchor instead of three separate external widgets -->
+
+<img src="https://streak-stats.demolab.com?user=Arun6206&hide_border=true&background=05070D&ring=7B3FE4&fire=22D3EE&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Arun6206 GitHub contribution streak" width="70%">
+
+<br><br>
+
+<sub>
+<strong>BUILD</strong> → <strong>COMMIT</strong> → <strong>DEBUG</strong> → <strong>LEARN</strong> → <strong>REPEAT</strong>
+</sub>
 
 </div>
 
----
+🔨 CURRENTLY BUILDING
 
-## 🔨 CURRENTLY BUILDING
+Status
 
-| Status | Focus |
-|:--:|:--|
-| 🟢 Active | MonkMode — Improving features and polishing the app |
-| 🟢 Active | Android development |
-| 🟡 Learning | Advanced Android development |
-| 🔵 Exploring | Backend and AI integration |
-| ⚪ Planned | System design and software architecture |
-| 🟢 Active | Content creation — 100 Days Vlogging Challenge |
+Focus
+
+🟢 Active
+
+MonkMode — Improving features and polishing the app
+
+🟢 Active
+
+Android development
+
+🟡 Learning
+
+Advanced Android development
+
+🔵 Exploring
+
+Backend and AI integration
+
+⚪ Planned
+
+System design and software architecture
+
+🟢 Active
+
+Content creation — 100 Days Vlogging Challenge
 
 <sub>Change the status icons to match reality.</sub>
 
----
+📚 WHAT'S NEXT?
 
-## 📚 WHAT'S NEXT?
+Areas I want to explore:
 
-*Areas I want to explore:*
+Area
 
-| Area | Focus |
-|:--|:--|
-| Advanced Android | Jetpack Compose · architecture · app performance |
-| Backend | Spring Boot · REST APIs |
-| Cloud | Firebase · cloud fundamentals |
-| AI integration | Gemini / Generative AI |
-| System design | scalable application thinking |
-| Software architecture | maintainable Android and backend systems |
+Focus
 
----
+Advanced Android
 
-## 🌐 FIND ME ONLINE
+Jetpack Compose · architecture · app performance
+
+Backend
+
+Spring Boot · REST APIs
+
+Cloud
+
+Firebase · cloud fundamentals
+
+AI integration
+
+Gemini / Generative AI
+
+System design
+
+scalable application thinking
+
+Software architecture
+
+maintainable Android and backend systems
+
+🌐 FIND ME ONLINE
 
 <div align="center">
 
@@ -456,14 +548,12 @@ YouTube: 8,255 subscribers · Instagram: 11.5K followers
 
 </div>
 
----
-
 <div align="center">
 <!-- BANNER ASSET: assets/final-30-hours.gif (1600x500) -->
 <img src="https://github.com/user-attachments/assets/39a8dd0e-a78c-4e69-a751-be53e07bb272" alt="Final banner — a clock settling back at 24:00 with a soft blue and purple glow" width="100%">
 </div>
 
-## ⏱️ SO... WHY 30 HOURS?
+⏱️ SO... WHY 30 HOURS?
 
 <div align="center">
 
@@ -476,8 +566,8 @@ and too much I want to improve.
 
 <br>
 
-**Maybe the goal isn't getting 30 hours.<br>
-Maybe it's learning how to use the 24 better.**
+Maybe the goal isn't getting 30 hours.<br>
+Maybe it's learning how to use the 24 better.
 
 <br>
 
@@ -493,8 +583,6 @@ Maybe it's learning how to use the 24 better.**
 <code>See you in the next commit.</code>
 
 </div>
-
----
 
 <div align="center">
 <sub>Designed &amp; built by Arun Kumar Yadav</sub><br>
