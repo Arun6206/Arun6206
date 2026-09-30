@@ -1,21 +1,14 @@
-<img width="1600" height="500" alt="hero-30-hours" src="https://github.com/user-attachments/assets/b1ef8c09-94d1-4fb5-aada-6a1a53a2dadb" />
-<img width="1600" height="500" alt="final-30-hours" src="https://github.com/user-attachments/assets/39a8dd0e-a78c-4e69-a751-be53e07bb272" />
-<img width="1200" height="300" alt="tech-banner" src="https://github.com/user-attachments/assets/c149a908-443c-4a4f-9408-2e83fa61cbf5" />
-<img width="1200" height="300" alt="projects-banner" src="https://github.com/user-attachments/assets/1e256499-7fb3-41ad-9ed9-51360c5e518c" />
-<img width="1200" height="300" alt="learning-banner" src="https://github.com/user-attachments/assets/29a7661f-3406-4339-bd4c-ae8aea1ae05c" />
-<img width="1200" height="300" alt="creator-banner" src="https://github.com/user-attachments/assets/7a78d718-c40c-43e3-89ac-dae7d70a962e" />
-<img width="1200" height="300" alt="editing-banner" src="https://github.com/user-attachments/assets/040f02a6-672a-48ba-94a9-1a3becc6678c" />
 <!-- =========================================================
   ARUN KUMAR YADAV — GITHUB PROFILE README
   Repo: Arun6206/Arun6206
-  Replace every [ADD ...] placeholder before publishing.
+  Banner images are linked to the uploaded GitHub assets. Older project screenshots can be added later.
   Palette: #05070D bg | #2F6BFF blue | #7B3FE4 purple | #22D3EE cyan
 ========================================================== -->
 
 <div align="center">
 
 <!-- HERO ASSET: assets/hero-30-hours.gif (1600x500) -->
-<img src="assets/hero-30-hours.gif" alt="Arun Kumar Yadav — 30 Hours GitHub Profile Hero: a digital clock moving from 24:00 toward 30:00" width="100%">
+<img src="https://github.com/user-attachments/assets/b1ef8c09-94d1-4fb5-aada-6a1a53a2dadb" alt="Arun Kumar Yadav — 30 Hours GitHub Profile Hero: a digital clock moving from 24:00 toward 30:00" width="100%">
 
 <h1>I WANT 30 HOURS</h1>
 <h3>INSTEAD OF 24.</h3>
@@ -94,7 +87,7 @@ also      : Content · Editing · Fitness
 
 <div align="center">
 <!-- BANNER ASSET: assets/learning-banner.gif (1200x300) -->
-<img src="assets/learning-banner.gif" alt="Learning banner — code lines and a rising progress bar in blue and purple" width="100%">
+<img src="https://github.com/user-attachments/assets/29a7661f-3406-4339-bd4c-ae8aea1ae05c" alt="Learning banner — code lines and a rising progress bar in blue and purple" width="100%">
 </div>
 
 ## 🎓 WHAT I'VE LEARNED
@@ -106,9 +99,9 @@ also      : Content · Editing · Fitness
 **Programming Languages**
 
 - Kotlin
-- [ADD CONFIRMED LANGUAGE]
-- [ADD CONFIRMED LANGUAGE]
-- [ADD CONFIRMED LANGUAGE]
+- Java
+- Java
+- Java
 
 </td>
 <td width="50%" valign="top">
@@ -146,7 +139,7 @@ also      : Content · Editing · Fitness
 
 <div align="center">
 <!-- BANNER ASSET: assets/projects-banner.gif (1200x300) -->
-<img src="assets/projects-banner.gif" alt="Projects banner — app screens floating over a dark grid with blue and purple glow" width="100%">
+<img src="https://github.com/user-attachments/assets/1e256499-7fb3-41ad-9ed9-51360c5e518c" alt="Projects banner — app screens floating over a dark grid with blue and purple glow" width="100%">
 </div>
 
 ## 🚀 WHAT I'VE BUILT
@@ -158,40 +151,56 @@ also      : Content · Editing · Fitness
 <table>
 <tr>
 
-<td width="33%" valign="top" align="center">
-<!-- IMAGE ASSET: assets/monkmode.png (16:9) -->
-<img src="assets/monkmode.png" alt="MonkMode Android productivity and habit-tracking application" width="100%">
+<td width="50%" valign="top" align="center">
 <h3>MonkMode</h3>
-<sub>Productivity &amp; Discipline</sub>
+<sub>Productivity &amp; Discipline · Android</sub>
 <p>A modern Android productivity and habit-tracking app designed to help users build discipline, improve focus, track habits and maintain consistent routines.</p>
-<sub><code>Kotlin</code> · <code>Compose</code> · <code>MVVM</code> · <code>Clean Architecture</code> · <code>Firebase</code> · <code>Room</code> · <code>Hilt</code> · <code>Coroutines</code> · <code>Flow</code></sub>
+<sub><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>MVVM</code> · <code>Clean Architecture</code> · <code>Firebase</code> · <code>Room</code> · <code>Hilt</code> · <code>Coroutines</code> · <code>Flow</code></sub>
 <br><br>
 <a href="https://github.com/Arun6206/MonkMode"><img src="https://img.shields.io/badge/VIEW_PROJECT-2F6BFF?style=for-the-badge&labelColor=05070D" alt="View MonkMode on GitHub"></a>
-<br><sub>[ADD STATUS, e.g. In development]</sub>
+<br><sub>In development</sub>
 </td>
 
-<td width="33%" valign="top" align="center">
-<!-- IMAGE ASSET: assets/justdoit.png (16:9) -->
-<img src="assets/justdoit.png" alt="JustDoit Android task tracking and focus timer application" width="100%">
-<h3>JustDoit</h3>
-<sub>Tasks &amp; Focus</sub>
-<p>An Android app combining task tracking with a focus timer.</p>
-<sub><code>[ADD TECH STACK]</code></sub>
+<td width="50%" valign="top" align="center">
+<h3>JustDoIt</h3>
+<sub>Fitness App</sub>
+<p>A fitness application with workout tracking, progress monitoring and personalized fitness goals, including Abs, Chest, Arms, Legs and Full Body workouts.</p>
+<sub><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>Firebase</code></sub>
 <br><br>
-<a href="[ADD JUSTDOIT REPO URL]"><img src="https://img.shields.io/badge/VIEW_PROJECT-7B3FE4?style=for-the-badge&labelColor=05070D" alt="View JustDoit on GitHub"></a>
-<br><sub>[ADD STATUS]</sub>
+<a href="https://github.com/Arun6206/JustDoIt"><img src="https://img.shields.io/badge/VIEW_PROJECT-7B3FE4?style=for-the-badge&labelColor=05070D" alt="View JustDoIt on GitHub"></a>
 </td>
 
-<td width="33%" valign="top" align="center">
-<!-- IMAGE ASSET: assets/mantra-audio.png (16:9) -->
-<img src="assets/mantra-audio.png" alt="Mantra Audio Android application with quizzes and leaderboard" width="100%">
-<h3>Mantra Audio</h3>
-<sub>Audio &amp; Devotional Content</sub>
-<p>An audio and devotional content app with quizzes and leaderboard functionality.</p>
-<sub><code>[ADD TECH STACK]</code></sub>
+</tr>
+<tr>
+
+<td width="50%" valign="top" align="center">
+<h3>Wishlist Reminder App</h3>
+<sub>Location-based Reminders</sub>
+<p>A wishlist manager with smart location-based shopping reminders, including CRUD operations and notifications when entering selected mall or store locations.</p>
+<sub><code>Android</code> · <code>Location Services</code> · <code>CRUD</code> · <code>Notifications</code></sub>
 <br><br>
-<a href="[ADD MANTRA AUDIO REPO URL]"><img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&labelColor=05070D" alt="View Mantra Audio on GitHub"></a>
-<br><sub>[ADD STATUS]</sub>
+<a href="https://github.com/Arun6206/Wish_list"><img src="https://img.shields.io/badge/VIEW_PROJECT-2F6BFF?style=for-the-badge&labelColor=05070D" alt="View Wishlist Reminder App on GitHub"></a>
+</td>
+
+<td width="50%" valign="top" align="center">
+<h3>CampusCart</h3>
+<sub>College Marketplace · Group Project</sub>
+<p>A college marketplace for purchasing assignment copies digitally. I worked on the responsive frontend and collaborated on the Razorpay payment gateway integration.</p>
+<sub><code>Frontend</code> · <code>Razorpay Integration</code></sub>
+<br><br>
+<sub>Group project · No personal public repository</sub>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top" align="center">
+<h3>Music Player App</h3>
+<sub>Beginner Android Project</sub>
+<p>A beginner-level Android music player focused on navigation and playlist browsing, with play, pause, next and previous controls.</p>
+<sub><code>Kotlin</code> · <code>Android Studio</code></sub>
+<br><br>
+<a href="https://github.com/Arun6206/Music_App"><img src="https://img.shields.io/badge/VIEW_PROJECT-7B3FE4?style=for-the-badge&labelColor=05070D" alt="View Music Player App on GitHub"></a>
 </td>
 
 </tr>
@@ -201,7 +210,7 @@ also      : Content · Editing · Fitness
 
 <div align="center">
 <!-- BANNER ASSET: assets/tech-banner.gif (1200x300) -->
-<img src="assets/tech-banner.gif" alt="Toolbox banner — a circuit-style grid of glowing nodes in blue and cyan" width="100%">
+<img src="https://github.com/user-attachments/assets/c149a908-443c-4a4f-9408-2e83fa61cbf5" alt="Toolbox banner — a circuit-style grid of glowing nodes in blue and cyan" width="100%">
 </div>
 
 ## 🧰 MY TOOLBOX
@@ -209,7 +218,6 @@ also      : Content · Editing · Fitness
 <table>
 <tr><td width="22%"><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/Kotlin-05070D?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
-<img src="https://img.shields.io/badge/[ADD_LANGUAGE]-05070D?style=flat-square" alt="Add language placeholder">
 </td></tr>
 <tr><td><b>Android</b></td><td>
 <img src="https://img.shields.io/badge/Jetpack_Compose-05070D?style=flat-square&logo=jetpackcompose&logoColor=22D3EE" alt="Jetpack Compose">
@@ -253,8 +261,6 @@ also      : Content · Editing · Fitness
 <img src="https://img.shields.io/badge/Gemini-05070D?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
 </td></tr>
 <tr><td><b>Design / Content</b></td><td>
-<img src="https://img.shields.io/badge/[ADD_TOOL]-05070D?style=flat-square" alt="Add design or content tool placeholder">
-<img src="https://img.shields.io/badge/[ADD_TOOL]-05070D?style=flat-square" alt="Add design or content tool placeholder">
 </td></tr>
 </table>
 
@@ -294,8 +300,8 @@ Alongside software development, I create content and work on personal projects o
 
 | Platform | Audience |
 |:--:|:--:|
-| YouTube | [ADD CURRENT SUBSCRIBERS] |
-| Instagram | [ADD CURRENT FOLLOWERS] |
+| YouTube | 8,255 subscribers |
+| Instagram | 11.5K followers |
 
 </div>
 
@@ -303,7 +309,7 @@ Alongside software development, I create content and work on personal projects o
 
 <div align="center">
 <!-- BANNER ASSET: assets/creator-banner.gif (1200x300) -->
-<img src="assets/creator-banner.gif" alt="Content creation banner — CREATE, EDIT, PUBLISH timeline on a dark grid" width="100%">
+<img src="https://github.com/user-attachments/assets/7a78d718-c40c-43e3-89ac-dae7d70a962e" alt="Content creation banner — CREATE, EDIT, PUBLISH timeline on a dark grid" width="100%">
 </div>
 
 ## 🎥 CONTENT CREATION
@@ -316,7 +322,7 @@ I create content around:
 
 **CREATE → EDIT → PUBLISH**
 
-<img src="https://img.shields.io/badge/100_DAYS_VLOGGING_CHALLENGE-Day_[CURRENT_DAY]_/_100-05070D?style=for-the-badge&labelColor=7B3FE4&color=05070D" alt="100 Days Vlogging Challenge progress">
+<img src="https://img.shields.io/badge/100_DAYS_VLOGGING_CHALLENGE-Day_39_/_100-05070D?style=for-the-badge&labelColor=7B3FE4&color=05070D" alt="100 Days Vlogging Challenge progress">
 
 </div>
 
@@ -342,7 +348,7 @@ I also work on video editing, thumbnails and visual content for my own projects 
 <br><br>
 
 <!-- BANNER ASSET: assets/editing-banner.gif (1200x300) -->
-<img src="assets/editing-banner.gif" alt="Video editing banner — a timeline with clips, playhead and waveform in blue and purple" width="100%">
+<img src="https://github.com/user-attachments/assets/040f02a6-672a-48ba-94a9-1a3becc6678c" alt="Video editing banner — a timeline with clips, playhead and waveform in blue and purple" width="100%">
 
 </div>
 
@@ -353,8 +359,6 @@ I also work on video editing, thumbnails and visual content for my own projects 
 <table>
 <tr>
 <td width="35%" align="center" valign="middle">
-<!-- IMAGE ASSET: assets/fitness.jpg (4:5 or 1:1) -->
-<img src="assets/fitness.jpg" alt="Arun Kumar Yadav — workout and training" width="200">
 </td>
 <td width="65%" valign="middle">
 
@@ -374,11 +378,11 @@ Training keeps my routine honest, and that routine carries straight back into ho
 
 <div align="center">
 
-| [XX] | [XX] | [XXX] | [XX] | [XX] |
+| 4 | Android-focused | 9.0 | 8,255 | 11.5K |
 |:--:|:--:|:--:|:--:|:--:|
-| Projects | Technologies | GitHub Contributions | Videos | Training Days |
+| Featured projects | Main focus | CGPA | YouTube subscribers | Instagram followers |
 
-<sub>Vlogging challenge: Day [CURRENT DAY] / 100</sub>
+<sub>Vlogging challenge: Day 39 / 100</sub>
 
 </div>
 
@@ -408,12 +412,12 @@ Training keeps my routine honest, and that routine carries straight back into ho
 
 | Status | Focus |
 |:--:|:--|
-| 🟢 Active | MonkMode — [ADD CONFIRMED CURRENT WORK] |
+| 🟢 Active | MonkMode — Improving features and polishing the app |
 | 🟢 Active | Android development |
-| 🟡 Learning | [ADD WHAT YOU ARE LEARNING NOW] |
-| 🔵 Exploring | [ADD WHAT YOU ARE EXPLORING] |
-| ⚪ Planned | [ADD NEXT PROJECT / IDEA] |
-| 🟢 Active | Content creation — [ADD CURRENT SERIES] |
+| 🟡 Learning | Advanced Android development |
+| 🔵 Exploring | Backend and AI integration |
+| ⚪ Planned | System design and software architecture |
+| 🟢 Active | Content creation — 100 Days Vlogging Challenge |
 
 <sub>Change the status icons to match reality.</sub>
 
@@ -425,12 +429,12 @@ Training keeps my routine honest, and that routine carries straight back into ho
 
 | Area | Focus |
 |:--|:--|
-| Advanced Android | [Technology] |
-| Backend | [Technology] |
-| Cloud | [Technology] |
-| AI integration | [Technology] |
-| System design | [Technology] |
-| Software architecture | [Technology] |
+| Advanced Android | Jetpack Compose · architecture · app performance |
+| Backend | Spring Boot · REST APIs |
+| Cloud | Firebase · cloud fundamentals |
+| AI integration | Gemini / Generative AI |
+| System design | scalable application thinking |
+| Software architecture | maintainable Android and backend systems |
 
 ---
 
@@ -439,16 +443,16 @@ Training keeps my routine honest, and that routine carries straight back into ho
 <div align="center">
 
 <a href="https://github.com/Arun6206"><img src="https://img.shields.io/badge/GitHub-Arun6206-05070D?style=for-the-badge&logo=github&logoColor=white&labelColor=2F6BFF" alt="Arun6206 on GitHub"></a>
-<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-05070D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F6BFF" alt="Arun Kumar Yadav on LinkedIn"></a>
+<a href="https://linkedin.com/in/arun-kumar-yadav-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-05070D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F6BFF" alt="Arun Kumar Yadav on LinkedIn"></a>
 <br>
-<a href="[ADD INSTAGRAM URL]"><img src="https://img.shields.io/badge/Instagram-Follow-05070D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7B3FE4" alt="Arun Kumar Yadav on Instagram"></a>
-<a href="[ADD YOUTUBE URL]"><img src="https://img.shields.io/badge/YouTube-Subscribe-05070D?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3FE4" alt="Arun Kumar Yadav on YouTube"></a>
+<a href="https://www.instagram.com/accept_it_arun/"><img src="https://img.shields.io/badge/Instagram-Follow-05070D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7B3FE4" alt="Arun Kumar Yadav on Instagram"></a>
+<a href="https://youtube.com/@trainhardwitharun06"><img src="https://img.shields.io/badge/YouTube-Subscribe-05070D?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3FE4" alt="Arun Kumar Yadav on YouTube"></a>
 
 <br><br>
 
-YouTube: [XX] subscribers · Instagram: [XX] followers
+YouTube: 8,255 subscribers · Instagram: 11.5K followers
 
-<sub>Content: Vlogging · Fitness · Productivity · Personal growth · [ADD OTHER CONFIRMED CONTENT]</sub>
+<sub>Content: Vlogging · Fitness · Productivity · Personal growth · Technology / development</sub>
 
 </div>
 
@@ -456,7 +460,7 @@ YouTube: [XX] subscribers · Instagram: [XX] followers
 
 <div align="center">
 <!-- BANNER ASSET: assets/final-30-hours.gif (1600x500) -->
-<img src="assets/final-30-hours.gif" alt="Final banner — a clock settling back at 24:00 with a soft blue and purple glow" width="100%">
+<img src="https://github.com/user-attachments/assets/39a8dd0e-a78c-4e69-a751-be53e07bb272" alt="Final banner — a clock settling back at 24:00 with a soft blue and purple glow" width="100%">
 </div>
 
 ## ⏱️ SO... WHY 30 HOURS?
@@ -495,7 +499,7 @@ Maybe it's learning how to use the 24 better.**
 <div align="center">
 <sub>Designed &amp; built by Arun Kumar Yadav</sub><br>
 <a href="https://github.com/Arun6206">GitHub</a> ·
-<a href="[ADD LINKEDIN URL]">LinkedIn</a> ·
-<a href="[ADD INSTAGRAM URL]">Instagram</a> ·
-<a href="[ADD YOUTUBE URL]">YouTube</a>
+<a href="https://linkedin.com/in/arun-kumar-yadav-dev">LinkedIn</a> ·
+<a href="https://www.instagram.com/accept_it_arun/">Instagram</a> ·
+<a href="https://youtube.com/@trainhardwitharun06">YouTube</a>
 </div>
