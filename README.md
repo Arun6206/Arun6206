@@ -1,3 +1,10 @@
+<img width="1600" height="500" alt="hero-30-hours" src="https://github.com/user-attachments/assets/b1ef8c09-94d1-4fb5-aada-6a1a53a2dadb" />
+<img width="1600" height="500" alt="final-30-hours" src="https://github.com/user-attachments/assets/39a8dd0e-a78c-4e69-a751-be53e07bb272" />
+<img width="1200" height="300" alt="tech-banner" src="https://github.com/user-attachments/assets/c149a908-443c-4a4f-9408-2e83fa61cbf5" />
+<img width="1200" height="300" alt="projects-banner" src="https://github.com/user-attachments/assets/1e256499-7fb3-41ad-9ed9-51360c5e518c" />
+<img width="1200" height="300" alt="learning-banner" src="https://github.com/user-attachments/assets/29a7661f-3406-4339-bd4c-ae8aea1ae05c" />
+<img width="1200" height="300" alt="creator-banner" src="https://github.com/user-attachments/assets/7a78d718-c40c-43e3-89ac-dae7d70a962e" />
+<img width="1200" height="300" alt="editing-banner" src="https://github.com/user-attachments/assets/040f02a6-672a-48ba-94a9-1a3becc6678c" />
 <!-- =========================================================
   ARUN KUMAR YADAV — GITHUB PROFILE README
   Repo: Arun6206/Arun6206
