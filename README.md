@@ -1,7 +1,7 @@
 <!-- =========================================================
   ARUN KUMAR YADAV — GITHUB PROFILE README
   Repo: Arun6206/Arun6206
-  Banner images are linked to the uploaded GitHub assets. Older project screenshots can be added later.
+  Banner images are linked to the uploaded GitHub assets. Older project screenshots can be added later; no fake project UI is used.
   Palette: #05070D bg | #2F6BFF blue | #7B3FE4 purple | #22D3EE cyan
 ========================================================== -->
 
@@ -9,52 +9,60 @@
 
 <!-- HERO ASSET: assets/hero-30-hours.gif (1600x500) -->
 
-<img src="https://github.com/user-attachments/assets/b1ef8c09-94d1-4fb5-aada-6a1a53a2dadb" alt="Arun Kumar Yadav — 30 Hours GitHub Profile Hero: a digital clock moving from 24:00 toward 30:00" width="100%">
+<img src="https://github.com/user-attachments/assets/b1ef8c09-94d1-4fb5-aada-6a1a53a2dadb" alt="Animated 30 hours concept — time moving beyond 24 hours" width="100%">
 
-<h1>I WANT 30 HOURS</h1>
-<h3>INSTEAD OF 24.</h3>
 
-<sub><code>Scroll down to see why. ↓</code></sub>
 
+
+<h1>⏱️ I WANT 30 HOURS</h1>
+<h2>INSTEAD OF 24.</h2>
+
+<p><strong>24 hours never feels like enough.</strong></p>
+
+<p>
+I want more time to <b>learn</b>.<br>
+More time to <b>build</b>.<br>
+More time to <b>create</b>.<br>
+More time to <b>train</b>.<br>
+More time to <b>improve</b>.
+</p>
+
+
+<img src="https://img.shields.io/badge/↓_SCROLL_DOWN_TO_SEE_WHY-05070D?style=for-the-badge&labelColor=2F6BFF&color=05070D" alt="Scroll down to see why">
+
+
+
+
+<sub>One profile. One journey. Too many things I want to do.</sub>
 </div>
 
-<br>
 
 <div align="center">
 
-I don't actually need 30 hours.
-
-I just have too many things I want to<br>
-learn, build, create and improve.
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARN-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Learn">
-<img src="https://img.shields.io/badge/BUILD-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Build">
-<img src="https://img.shields.io/badge/CREATE-05070D?style=for-the-badge&labelColor=05070D&color=22D3EE" alt="Create">
-<br>
-<img src="https://img.shields.io/badge/TRAIN-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Train">
-<img src="https://img.shields.io/badge/EDIT-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Edit">
-<img src="https://img.shields.io/badge/EXPLORE-05070D?style=for-the-badge&labelColor=05070D&color=22D3EE" alt="Explore">
-
-<br><br>
-
-<sub>Every section below is one reason 24 hours never feels like enough.</sub>
+<table>
+<tr>
+<td align="center" width="16%"><b>LEARN</b></td>
+<td align="center">→</td>
+<td align="center" width="16%"><b>BUILD</b></td>
+<td align="center">→</td>
+<td align="center" width="16%"><b>CREATE</b></td>
+<td align="center">→</td>
+<td align="center" width="16%"><b>TRAIN</b></td>
+<td align="center">→</td>
+<td align="center" width="16%"><b>REPEAT</b></td>
+</tr>
+</table>
 
 </div>
 
 👋 WHO I AM
-
 <table>
 <tr>
 <td width="60%" valign="top">
 
 Arun Kumar Yadav
-
 B.Tech Computer Science student focused on Android development and building practical applications.
-
 I work with Kotlin and Jetpack Compose, and I care about clean architecture, maintainable code and apps that solve real problems. Outside of code, I create content, edit videos and train.
-
 </td>
 <td width="40%" valign="top">
 
@@ -63,7 +71,6 @@ studying  : B.Tech Computer Science
 focus     : Android Development
 stack     : Kotlin · Compose · MVVM
 also      : Content · Editing · Fitness
-
 </td>
 </tr>
 </table>
@@ -84,36 +91,24 @@ also      : Content · Editing · Fitness
 </div>
 
 🎓 WHAT I'VE LEARNED
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 Programming Languages
-
 Kotlin
-
 Java
-
 Java
-
 Java
-
 </td>
 <td width="50%" valign="top">
 
 Android Development
-
 Android SDK · Jetpack Compose · Material 3
-
 MVVM · Clean Architecture
-
 Room · Firebase
-
 Hilt · Coroutines · Flow
-
 Navigation · WorkManager · Notifications
-
 </td>
 </tr>
 </table>
@@ -121,7 +116,6 @@ Navigation · WorkManager · Notifications
 <div align="center">
 
 Learning timeline
-
 <table>
 <tr align="center">
 <td><b>2023</b><br><sub>[What I learned]</sub></td>
@@ -132,7 +126,6 @@ Learning timeline
 </table>
 
 <sub><i>Learning never really ends.</i></sub>
-
 </div>
 
 <div align="center">
@@ -141,10 +134,8 @@ Learning timeline
 </div>
 
 🚀 WHAT I'VE BUILT
-
 <div align="center"><b><i>I don't just learn. I build.</i></b></div>
 
-<br>
 
 <table>
 <tr>
@@ -210,7 +201,6 @@ Learning timeline
 </div>
 
 🧰 MY TOOLBOX
-
 <table>
 <tr><td width="22%"><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/Kotlin-05070D?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
@@ -261,76 +251,108 @@ Learning timeline
 </table>
 
 🧠 HOW I WORK
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/IDEA-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Idea"> →
 <img src="https://img.shields.io/badge/RESEARCH-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Research"> →
 <img src="https://img.shields.io/badge/DESIGN-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Design"> →
 <img src="https://img.shields.io/badge/CODE-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Code">
-<br>↓<br>
+
+↓
+
 <img src="https://img.shields.io/badge/TEST-05070D?style=for-the-badge&labelColor=05070D&color=22D3EE" alt="Test"> →
 <img src="https://img.shields.io/badge/DEBUG-05070D?style=for-the-badge&labelColor=05070D&color=22D3EE" alt="Debug"> →
 <img src="https://img.shields.io/badge/IMPROVE-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Improve"> →
 <img src="https://img.shields.io/badge/SHIP-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Ship">
 
-<br><br>
+
 
 <code>Build → Break → Fix → Learn → Repeat</code>
-
 </div>
 
 🎬 BEYOND CODE
-
-<div align="center"><b><i>There's more to me than code.</i></b></div>
-
-<br>
-
-Alongside software development, I create content and work on personal projects outside it: YouTube, Instagram, video creation, vlogging, editing, and thumbnail/design work.
-
 <div align="center">
 
-Platform
+<h1>IT'S NOT JUST CODE.</h1>
 
-Audience
+<h3>BUILDING SOFTWARE IS ONLY ONE PART OF MY STORY.</h3>
 
-YouTube
 
-8,255 subscribers
-
-Instagram
-
-11.5K followers
-
-</div>
-
-<div align="center">
 <!-- BANNER ASSET: assets/creator-banner.gif (1200x300) -->
-<img src="https://github.com/user-attachments/assets/7a78d718-c40c-43e3-89ac-dae7d70a962e" alt="Content creation banner — CREATE, EDIT, PUBLISH timeline on a dark grid" width="100%">
+<img src="https://github.com/user-attachments/assets/7a78d718-c40c-43e3-89ac-dae7d70a962e" alt="Animated creator workflow — create, edit and publish" width="100%">
+
+
+
+
+<p>
+<b>I build apps.</b> &nbsp; <b>I create videos.</b> &nbsp; <b>I edit.</b><br>
+<b>I vlog.</b> &nbsp; <b>I design.</b> &nbsp; <b>I document the journey.</b>
+</p>
+
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h1>8,255+</h1>
+<b>YOUTUBE</b><br>
+<sub>Daily vlogs · Fitness · Productivity · Growth</sub>
+<br><br>
+<a href="https://youtube.com/@trainhardwitharun06">
+<img src="https://img.shields.io/badge/WATCH_THE_JOURNEY-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Arun on YouTube">
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<h1>11.5K+</h1>
+<b>INSTAGRAM</b><br>
+<sub>Content · Reels · Fitness · Personal Journey</sub>
+<br><br>
+<a href="https://www.instagram.com/accept_it_arun/">
+<img src="https://img.shields.io/badge/FOLLOW_THE_JOURNEY-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Arun on Instagram">
+</a>
+
+</td>
+</tr>
+</table>
+
+
+<h2>MY CREATOR LOOP</h2>
+
+<table>
+<tr>
+<td align="center" width="25%"><b>01</b><br>💡<br><b>IDEA</b><br><sub>Find the story</sub></td>
+<td align="center" width="25%"><b>02</b><br>🎥<br><b>SHOOT</b><br><sub>Capture the day</sub></td>
+<td align="center" width="25%"><b>03</b><br>✂️<br><b>EDIT</b><br><sub>Shape the story</sub></td>
+<td align="center" width="25%"><b>04</b><br>🚀<br><b>PUBLISH</b><br><sub>Put it out there</sub></td>
+</tr>
+</table>
+
+
+<blockquote>
+<b>Code is what I build.</b><br>
+<b>Content is how I share the journey.</b>
+</blockquote>
+
+<sub>🎬 100 Days Vlogging Challenge · Day 39 / 100</sub>
 </div>
 
 🎥 CONTENT CREATION
-
 I create content around:
-
 Daily vlogging · Fitness · Productivity · Discipline · Personal growth · Technology / development
-
 <div align="center">
 
 CREATE → EDIT → PUBLISH
-
 <img src="https://img.shields.io/badge/100_DAYS_VLOGGING_CHALLENGE-Day_39_/_100-05070D?style=for-the-badge&labelColor=7B3FE4&color=05070D" alt="100 Days Vlogging Challenge progress">
 
 </div>
 
 ✂️ I EDIT TOO
-
 <div align="center"><b><i>Developer by logic. Creator by choice.</i></b></div>
 
-<br>
 
 I also work on video editing, thumbnails and visual content for my own projects and social media.
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/RAW_FOOTAGE-05070D?style=flat-square&labelColor=05070D&color=2F6BFF" alt="Raw footage"> →
@@ -340,7 +362,7 @@ I also work on video editing, thumbnails and visual content for my own projects 
 <img src="https://img.shields.io/badge/THUMBNAIL-05070D?style=flat-square&labelColor=05070D&color=22D3EE" alt="Thumbnail"> →
 <img src="https://img.shields.io/badge/PUBLISH-05070D?style=flat-square&labelColor=05070D&color=22D3EE" alt="Publish">
 
-<br><br>
+
 
 <!-- BANNER ASSET: assets/editing-banner.gif (1200x300) -->
 
@@ -349,203 +371,149 @@ I also work on video editing, thumbnails and visual content for my own projects 
 </div>
 
 💪 DISCIPLINE
-
 <table>
 <tr>
 <td width="35%" align="center" valign="middle">
 </td>
 <td width="65%" valign="middle">
 
-Code needs discipline.<br>So does life.
-
+Code needs discipline.
+So does life.
 Workout · Consistency · Daily routine · Fitness
-
 Training keeps my routine honest, and that routine carries straight back into how I build.
-
 </td>
 </tr>
 </table>
 
 📊 MY PROGRESS
-
 <div align="center">
 
 4
-
 Android-focused
-
 9.0
-
 8,255
-
 11.5K
-
 Featured projects
-
 Main focus
-
 CGPA
-
 YouTube subscribers
-
 Instagram followers
-
 <sub>Vlogging challenge: Day 39 / 100</sub>
-
 </div>
 
 💻 BUILDING IN PUBLIC
-
 <div align="center">
 
-CODE. COMMIT. LEARN. REPEAT.
+<h1>THE CODE IS THE WORKSHOP.</h1>
 
-<sub>
-I build in public, keep shipping small improvements, and use every project as a way to learn something new.
-</sub>
+<p>
+GitHub is where ideas become commits, bugs become lessons,<br>
+and small experiments become real projects.
+</p>
 
-<br><br>
 
 <table>
 <tr>
 <td align="center" width="25%">
-
-<b>ANDROID</b><br>
-<sub>Kotlin · Compose</sub>
-
+<h2>01</h2>
+<b>BUILD</b><br>
+<sub>Kotlin · Compose<br>Real applications</sub>
 </td>
 <td align="center" width="25%">
-
-<b>PROJECTS</b><br>
-<sub>Build · Test · Improve</sub>
-
+<h2>02</h2>
+<b>BREAK</b><br>
+<sub>Debug · Refactor<br>Find what fails</sub>
 </td>
 <td align="center" width="25%">
-
-<b>GITHUB</b><br>
-<sub>Code · Commits · Progress</sub>
-
+<h2>03</h2>
+<b>LEARN</b><br>
+<sub>Research · Experiment<br>Understand why</sub>
 </td>
 <td align="center" width="25%">
-
-<b>LEARNING</b><br>
-<sub>Every project teaches</sub>
-
+<h2>04</h2>
+<b>SHIP</b><br>
+<sub>Commit · Publish<br>Move forward</sub>
 </td>
 </tr>
 </table>
 
-<br>
 
 <img src="https://img.shields.io/badge/KOTLIN-2F6BFF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/JETPACK_COMPOSE-22D3EE?style=for-the-badge&logo=jetpackcompose&logoColor=05070D" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/COMPOSE-22D3EE?style=for-the-badge&logo=jetpackcompose&logoColor=05070D" alt="Jetpack Compose">
 <img src="https://img.shields.io/badge/FIREBASE-7B3FE4?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
-<br><br>
+
+
 
 <a href="https://github.com/Arun6206?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-2F6BFF?style=for-the-badge&labelColor=05070D" alt="Explore Arun6206 repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2F6BFF?style=for-the-badge&labelColor=05070D" alt="Explore projects">
 </a>
 
 <a href="https://github.com/Arun6206?tab=activity">
-  <img src="https://img.shields.io/badge/VIEW_ACTIVITY-7B3FE4?style=for-the-badge&labelColor=05070D" alt="View GitHub activity">
+<img src="https://img.shields.io/badge/WATCH_THE_BUILD-7B3FE4?style=for-the-badge&labelColor=05070D" alt="Watch GitHub activity">
 </a>
 
-<br><br>
 
-<!-- Optional dynamic card: kept as a single visual anchor instead of three separate external widgets -->
 
-<img src="https://streak-stats.demolab.com?user=Arun6206&hide_border=true&background=05070D&ring=7B3FE4&fire=22D3EE&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Arun6206 GitHub contribution streak" width="70%">
 
-<br><br>
+<code>BUILD → BREAK → FIX → LEARN → SHIP → REPEAT</code>
+
+
 
 <sub>
-<strong>BUILD</strong> → <strong>COMMIT</strong> → <strong>DEBUG</strong> → <strong>LEARN</strong> → <strong>REPEAT</strong>
+Not chasing a perfect contribution graph.<br>
+Chasing better code than yesterday.
 </sub>
 
 </div>
 
 🔨 CURRENTLY BUILDING
-
 Status
-
 Focus
-
 🟢 Active
-
 MonkMode — Improving features and polishing the app
-
 🟢 Active
-
 Android development
-
 🟡 Learning
-
 Advanced Android development
-
 🔵 Exploring
-
 Backend and AI integration
-
 ⚪ Planned
-
 System design and software architecture
-
 🟢 Active
-
 Content creation — 100 Days Vlogging Challenge
-
 <sub>Change the status icons to match reality.</sub>
-
 📚 WHAT'S NEXT?
-
 Areas I want to explore:
-
 Area
-
 Focus
-
 Advanced Android
-
 Jetpack Compose · architecture · app performance
-
 Backend
-
 Spring Boot · REST APIs
-
 Cloud
-
 Firebase · cloud fundamentals
-
 AI integration
-
 Gemini / Generative AI
-
 System design
-
 scalable application thinking
-
 Software architecture
-
 maintainable Android and backend systems
-
 🌐 FIND ME ONLINE
-
 <div align="center">
 
 <a href="https://github.com/Arun6206"><img src="https://img.shields.io/badge/GitHub-Arun6206-05070D?style=for-the-badge&logo=github&logoColor=white&labelColor=2F6BFF" alt="Arun6206 on GitHub"></a>
 <a href="https://linkedin.com/in/arun-kumar-yadav-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-05070D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F6BFF" alt="Arun Kumar Yadav on LinkedIn"></a>
-<br>
+
+
 <a href="https://www.instagram.com/accept_it_arun/"><img src="https://img.shields.io/badge/Instagram-Follow-05070D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7B3FE4" alt="Arun Kumar Yadav on Instagram"></a>
 <a href="https://youtube.com/@trainhardwitharun06"><img src="https://img.shields.io/badge/YouTube-Subscribe-05070D?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3FE4" alt="Arun Kumar Yadav on YouTube"></a>
 
-<br><br>
+
 
 YouTube: 8,255 subscribers · Instagram: 11.5K followers
-
 <sub>Content: Vlogging · Fitness · Productivity · Personal growth · Technology / development</sub>
-
 </div>
 
 <div align="center">
@@ -554,22 +522,20 @@ YouTube: 8,255 subscribers · Instagram: 11.5K followers
 </div>
 
 ⏱️ SO... WHY 30 HOURS?
-
 <div align="center">
 
 I don't really need 30 hours.
+I just have too much I want to learn,
 
-I just have too much I want to learn,<br>
-too much I want to build,<br>
-too much I want to create,<br>
+too much I want to build,
+
+too much I want to create,
+
 and too much I want to improve.
 
-<br>
+Maybe the goal isn't getting 30 hours.
 
-Maybe the goal isn't getting 30 hours.<br>
 Maybe it's learning how to use the 24 better.
-
-<br>
 
 <img src="https://img.shields.io/badge/BUILD.-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Build">
 <img src="https://img.shields.io/badge/LEARN.-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Learn">
@@ -578,10 +544,10 @@ Maybe it's learning how to use the 24 better.
 <img src="https://img.shields.io/badge/TRAIN.-05070D?style=for-the-badge&labelColor=05070D&color=2F6BFF" alt="Train">
 <img src="https://img.shields.io/badge/REPEAT.-05070D?style=for-the-badge&labelColor=05070D&color=7B3FE4" alt="Repeat">
 
-<br><br>
+
+
 
 <code>See you in the next commit.</code>
-
 </div>
 
 <div align="center">
